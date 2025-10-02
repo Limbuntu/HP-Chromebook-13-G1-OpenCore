@@ -6,6 +6,8 @@ HP-Chromebook-13-G1黑苹果EFI分享，Chromebook刷机前需要先[刷入完�
 
 [视频教程](https://www.bilibili.com/video/BV1SbWAzYENn/?share_source=copy_web&vd_source=422977789d9cdc43681694089f76b267)
 
+![20251002-173454](/image/20251002-173454.png)
+
 ### MacOS版本：Monterey  (12.7.5)
 
 ### OpenCore版本：OpenCore 1.0.5
